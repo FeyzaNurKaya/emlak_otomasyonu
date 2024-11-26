@@ -1,0 +1,6 @@
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\kayaa\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.pdb

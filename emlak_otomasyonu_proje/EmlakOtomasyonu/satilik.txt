@@ -1,0 +1,4 @@
+402019006|7|6|Balıkesir|Akçay|200|1|satilik|False|29.10.2019 00:00:00|6000000
+402019007|5|2|Balıkesir|Edremit|180|1|satilik|True|26.01.2010 00:00:00|5000000
+402019008|4|1|Kayseri|Develi|100|2|satilik|True|4.10.2018 00:00:00|900000
+402019010|4|3|Konya|Selçuklu|120|2|satilik|True|4.10.2019 00:00:00|700000
